@@ -5,9 +5,12 @@ Gym-Frontend is a web application designed for gym management, providing a seaml
 
 # **Features:**
 User Registration & Login: Secure sign-up and login functionality.
-# Workout Plans: Browse and view different workout plans tailored for various fitness goals.
-# Gym Services: Access detailed information on gym services, classes, and schedules.
-# Responsive Design: Fully responsive for smooth browsing on all screen sizes and devices.
+# Workout Plans:
+Browse and view different workout plans tailored for various fitness goals.
+# Gym Services: 
+Access detailed information on gym services, classes, and schedules.
+# Responsive Design: 
+Fully responsive for smooth browsing on all screen sizes and devices.
 # **Technologies Used:**
 HTML5
 CSS3
